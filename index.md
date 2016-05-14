@@ -14,7 +14,7 @@ website using
 [git](http://git-scm.com).
 
 
-<p> Try liquid tag {{tagline}}</p>
+<p> Try liquid tag {{page.tagline}}</p>
 
 For me, the painful aspects of making a website are
 
